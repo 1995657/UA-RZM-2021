@@ -143,15 +143,9 @@ These values are provided as a quick reference and should be interpreted togethe
 The products related to the model section of this paper are available via the following link:Link: https://pan.baidu.com/s/1VfItajc5-nJN8L4fsy0jQA?pwd=uarzExtraction code: uarz
 
 
-## 9. Citation
-
-If you use this code or the released models, please cite the accompanying paper:
-
-
-
 ---
 
-## 10. License and disclaimer
+## 9. License and disclaimer
 
 For research use only. The software and models are provided “as is” without any warranty.  
 Please ensure compliance with your data-sharing policies when running the model on proprietary station observations.
